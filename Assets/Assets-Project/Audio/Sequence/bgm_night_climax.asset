@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d91bac42c21abe40ba00596d113884f, type: 3}
+  m_Name: bgm_night_climax
+  m_EditorClassIdentifier: 
+  m_clips:
+  - m_audioClip: {fileID: 8300000, guid: e654eee62ab777048baf0c3370d684bf, type: 3}
+    m_loops: 0
+  - m_audioClip: {fileID: 8300000, guid: bdd13cbee046536418ab51684e186cd1, type: 3}
+    m_loops: -1
